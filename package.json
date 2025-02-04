@@ -81,8 +81,5 @@
     },
     "files": [
         "dist"
-    ],
-    "precommit": [
-        "build"
     ]
 }
