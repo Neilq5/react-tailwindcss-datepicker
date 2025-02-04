@@ -82,7 +82,7 @@
     "files": [
         "dist"
     ],
-    "pre-commit": [
+    "precommit": [
         "build"
     ]
 }
